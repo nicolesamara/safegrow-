@@ -15,7 +15,7 @@ header{
 
     padding: 20px;
 
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #430da8;
 }
 
 .logo{
@@ -25,7 +25,7 @@ header{
 
 nav a{
     text-decoration: none;
-    color: black;
+    color: rgb(17, 50, 103);
 
     margin: 0 10px;
 }
@@ -33,7 +33,7 @@ nav a{
 .buttons button{
     padding: 8px 15px;
 
-    border: 1px solid black;
+    border: 1px solid rgb(40, 38, 154);
 
     cursor: pointer;
 }
@@ -58,7 +58,7 @@ nav a{
 .formulario{
     width: 400px;
 
-    border: 1px solid #ccc;
+    border: 1px solid #040115;
 
     padding: 20px;
 
@@ -76,7 +76,7 @@ textarea{
 
     padding: 10px;
 
-    border: 1px sokid #ccc;
+    border: 1px sokid #000105;
 
     border-radius: 5px;
 }
@@ -93,7 +93,7 @@ form button{
     padding: 12px;
 
     background-color: black;
-    color: white;
+    color: rgb(233, 233, 233);
 
     border: none;
 
