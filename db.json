@@ -1,0 +1,21 @@
+{
+  "contatos": [
+    {
+      "nome": "nicole samara",
+      "email": "nicolesamara2212@gmail.com",
+      "assunto": "não sei",
+      "telefone": "31987124570",
+      "mensagem": "queijo",
+      "id": "5H58daNmT-Q"
+    },
+    {
+      "nome": "Ana",
+      "email": "ana@gmail.com",
+      "assunto": "bla bla",
+      "telefone": "31974667880",
+      "mensagem": "mensagem",
+      "id": "7Tdbsm7KymQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
