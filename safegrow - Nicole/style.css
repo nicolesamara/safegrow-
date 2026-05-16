@@ -70,13 +70,12 @@ form{
     flex-direction: column;
 }
 
-input,
-textarea{
+input, textarea{
     margin-top: 15px;
 
     padding: 10px;
 
-    border: 1px sokid #000105;
+    border: 1px solid #000105;
 
     border-radius: 5px;
 }
@@ -103,31 +102,59 @@ form button{
 }
 
 .contatos{
-    width: 300px;
+    width: 400px;
 
-    border: 1px solid #ccc;
+    border: 1px solid #040115;
 
     padding: 20px;
 
     border-radius: 10px;
+
+    background: white;
 }
 
 .card{
-    border: 1px solid #ddd;
-
+    background: white;
     padding: 15px;
-
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
-footer{
-    margin-top: 50px;
+.contato{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 15px;  
+    width: 400px;
+    background: white;
+}
 
-    padding: 20px;
-
-    border-top: 1px solid #ccc;
-
+.container{
     display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: flex-start;
+}
 
-    justify-content: space-around;
+.card{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.card h3{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.card p{
+    margin-bottom: 10px;
+}
+
+.botaoEmail{
+    background: black;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+
+    margin-top: 10px;
 }

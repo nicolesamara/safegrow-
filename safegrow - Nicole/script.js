@@ -5,15 +5,21 @@ formulario.addEventListener("submit", function(event){
     event.preventDefault();
 
     const nome = document.getElementById('nome').value;
-    const email = document.getElementById('E-mail').value;
-    const assunto = document.getElementById('Assunto').value;
-    const telefone = document.getElementById('Telefone').value;
+    const email = document.getElementById('email').value;
+    const assunto = document.getElementById('assunto').value;
+    const telefone = document.getElementById('telefone').value;
     const mensagem = document.getElementById('mensagem').value;
 
-     fetch("http://localhost:3001/contatos", {
+    console.log(nome);
+    console.log(email);
+    console.log(assunto);
+    console.log(telefone);
+    console.log(mensagem);
 
+
+
+     fetch("http://localhost:3000/contatos", {
         method: "POST",
-
         headers: {
         "Content-Type": "application/json"
     },
