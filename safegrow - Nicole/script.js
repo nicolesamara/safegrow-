@@ -16,9 +16,32 @@ formulario.addEventListener("submit", function(event){
     console.log(telefone);
     console.log(mensagem);
 
+// validação do campo de nome
+    if(nome.length < 3){
 
+    document.getElementById("mensagemErro")
+    .innerText = "Nome inválido";
 
-     fetch("http://localhost:3000/contatos", {
+    return;
+}
+// validação do campo de email
+if(!email.includes("@")){
+
+    document.getElementById("mensagemErro")
+    .innerText = "E-mail ou senha inválidos";
+
+    return;
+}
+// validação do campo de telefone
+if(telefone.length < 8){
+
+    document.getElementById("mensagemErro")
+    .innerText = "Telefone inválido";
+
+    return;
+}
+
+     fetch("http://localhost:3002/contatos", {
         method: "POST",
         headers: {
         "Content-Type": "application/json"
@@ -33,5 +56,15 @@ formulario.addEventListener("submit", function(event){
 
          })
 
-     });
+ })
+    .then(response => response.json())
+
+    .then(data => {
+        console.log("Sucesso:", data);
+    })
+
+    .catch(error => {
+        console.log("Erro:", error);
+    });
+
 });

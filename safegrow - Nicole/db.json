@@ -1,36 +1,12 @@
 {
   "contatos": [
     {
-      "nome": "nicole samara",
-      "email": "nicolesamara2212@gmail.com",
-      "assunto": "xxxxxxxx",
-      "telefone": "31 100000000",
-      "mensagem": "yyyyyyyyy",
-      "id": "ReFjN929umo"
-    },
-    {
-      "nome": "Ana Clara",
-      "email": "anaclara@gmail.com",
-      "assunto": "xxxxxxxx",
-      "telefone": "11 000000000",
-      "mensagem": "zzzzzzzzzzz",
-      "id": "8Ckny1lH47Y"
-    },
-    {
-      "nome": "pedro",
-      "email": "pedroa@gmail.com",
-      "assunto": "eeeeeee",
-      "telefone": "77 777777777",
-      "mensagem": "pppppppppppp",
-      "id": "TylN2RLRQuk"
-    },
-    {
-      "nome": "Mariana",
-      "email": "mariana@gmail.com",
-      "assunto": "wwwwwww",
-      "telefone": "99 999999999",
-      "mensagem": "mmmmmmmm",
-      "id": "_elKvqyy1VU"
+      "nome": "NICOLE SAMARA DE ALMEIDA",
+      "email": "nicole@gmail.com",
+      "assunto": "wwww",
+      "telefone": "31 111111111",
+      "mensagem": "xxxxxxx",
+      "id": "zLwgxz3dfi8"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
