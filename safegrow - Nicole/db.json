@@ -5,8 +5,16 @@
       "email": "nicole@gmail.com",
       "assunto": "wwww",
       "telefone": "31 111111111",
-      "mensagem": "xxxxxxx",
-      "id": "zLwgxz3dfi8"
+      "mensagem": "xxxxxxxx",
+      "id": "ZuGC_AjTp6w"
+    },
+    {
+      "nome": "ana clara",
+      "email": "anaclara@gmail.com",
+      "assunto": "xxxxxxx",
+      "telefone": "31 111111111",
+      "mensagem": "xxxxxxxx",
+      "id": "nkTeiuCKMhk"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
