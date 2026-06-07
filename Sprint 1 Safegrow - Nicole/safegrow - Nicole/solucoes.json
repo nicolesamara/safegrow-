@@ -1,0 +1,34 @@
+[
+  {
+    "id": "educacao",
+    "titulo": "Educação Digital",
+    "icone": "fa-computer",
+    "texto": "Ensinar crianças sobre o uso consciente da internet é essencial.",
+    "pagina": "paginas/educacao.html",
+    "botao": "Saiba Mais"
+  },
+  {
+    "id": "familia",
+    "titulo": "Papel da Família",
+    "icone": "fa-house",
+    "texto": "O diálogo e o acolhimento fortalecem vínculos familiares.",
+    "pagina": "paginas/familia.html",
+    "botao": "Ler Conteúdo"
+  },
+  {
+    "id": "midia",
+    "titulo": "Responsabilidade da Mídia",
+    "icone": "fa-bullhorn",
+    "texto": "Cobrança por conteúdos adequados para cada faixa etária.",
+    "pagina": "paginas/midia.html",
+    "botao": "Ver Mais"
+  },
+  {
+    "id": "apoio",
+    "titulo": "Apoio Psicológico",
+    "icone": "fa-heart",
+    "texto": "Suporte emocional para crianças expostas à adultização.",
+    "pagina": "paginas/apoio.html",
+    "botao": "Buscar Apoio"
+  }
+]
