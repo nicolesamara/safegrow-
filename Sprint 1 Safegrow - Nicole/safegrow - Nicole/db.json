@@ -1,0 +1,77 @@
+{
+  "contatos": [
+    {
+      "nome": "NICOLE SAMARA DE ALMEIDA",
+      "email": "nicole@gmail.com",
+      "assunto": "wwww",
+      "telefone": "31 111111111",
+      "mensagem": "xxxxxxxx",
+      "id": "ZuGC_AjTp6w"
+    },
+    {
+      "nome": "ana clara",
+      "email": "anaclara@gmail.com",
+      "assunto": "xxxxxxx",
+      "telefone": "31 111111111",
+      "mensagem": "xxxxxxxx",
+      "id": "nkTeiuCKMhk"
+    },
+    {
+      "nome": "nicole",
+      "email": "nicole@gmail",
+      "assunto": "wwwww",
+      "telefone": "31 11111",
+      "mensagem": "xxxxxx",
+      "id": "bpdCDz-eRSQ"
+    },
+    {
+      "nome": "ni ",
+      "email": "nicole@gmail",
+      "assunto": "wwwww",
+      "telefone": "31 111111111",
+      "mensagem": "xxxxxxxxxx",
+      "id": "KsGrAnTZVQ4"
+    },
+    {
+      "nome": "nicole",
+      "email": "nicole@gmail",
+      "assunto": "ssssssss",
+      "telefone": "11 100000000",
+      "mensagem": "bbbbbbbb",
+      "id": "fJ37ZUweaX8"
+    },
+    {
+      "nome": "nicole samara",
+      "email": "nicole@gmail",
+      "assunto": "ssssssss",
+      "telefone": "77 777777777",
+      "mensagem": "xxx",
+      "id": "s8l0gkMDiV0"
+    },
+    {
+      "nome": "nicole samara",
+      "email": "nicole@gmail",
+      "assunto": "ssssssss",
+      "telefone": "77 777777777",
+      "mensagem": "xxx",
+      "id": "J1DCrSr3U38"
+    },
+    {
+      "nome": "nicole",
+      "email": "nicole@gmail",
+      "assunto": "ssssssss",
+      "telefone": "77 777777777",
+      "mensagem": "xxxx",
+      "id": "-tEP8o5q7pg"
+    },
+    {
+      "nome": "nicole samara de almeida",
+      "email": "nicole@gmail",
+      "assunto": "assunto",
+      "telefone": "31 999999999",
+      "mensagem": "mensagem",
+      "id": "eXbV5ujJlSU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
